@@ -1,16 +1,16 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ahmad Rahimi",
+    "label": "Ph.D. Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ahmad.rahimi@epfl.ch",
+    "phone": "+41 76 266 94 37",
+    "url": "https://AhmadRHM.github.io/",
+    "summary": "I am a Ph.D. student in the VITA group at EPFL. My research interests include deep learning and computer vision for autonomous driving.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Rue des Fontenailles 18",
+      "postalCode": "1007",
+      "city": "Lausanne",
       "countryCode": "US",
       "region": "California"
     },
