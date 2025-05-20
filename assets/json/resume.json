@@ -51,21 +51,21 @@
   "publications": [
     {
       "name": "GEM: A Generalizable Ego-vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control",
-      "publisher": "Under review in CVPR",
+      "publisher": "CVPR 2025",
       "releaseDate": "2024-12-03",
       "url": "https://ahmadrhm.github.io/",
       "summary": "We propose a generalizable ego-vision multimodal world model, GEM, that learns to predict future frames of egocentric driving videos, compromising various control signals. We build on pre-trained stable video diffusion model, adding a number of new features to incorporate controlability to the model and unleash long-term generation capabilities."
     },
     {
       "name": "A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses",
-      "publisher": "Under review in ICRA",
+      "publisher": "Under review",
       "releaseDate": "2024-12-02",
       "url": "https://ahmadrhm.github.io/",
       "summary": "Traditionally, trajectory prediction models are trained using minADE losses, which only penalize the closest prediction to the ground truth. This sparsification of the loss function slows down model convergence and may lead to suboptimal predictions for less trained prediction heads. In this work, we propose a multi-loss strategy that combines off-road, diversity, and directional consistency losses which act on all prediction modes and improve the performance of trajectory prediction models."
     },
     {
       "name": "Sim-to-Real Causal Transfer: A Metric Learning Approach to Causally-Aware Interaction Representations",
-      "publisher": "Under review in CVPR",
+      "publisher": "CVPR 2025",
       "releaseDate": "2023-12-07",
       "url": "https://ahmadrhm.github.io/",
       "summary": "We investigate causal understanding in the context of multi agent interaction prediction, where removing non-causal agents from the scene should not change model's prediction. We show modern prediction models are able to identify non-causal agents in the scene, but fail to properly model causal agent removals. We propose a metric learning approach to learn causally-aware interaction representations, which we show lead to better generalizability and robustness for Out of Distribution (OOD) and low-data regime scenarios."
