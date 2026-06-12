@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My recent project on motion appearance decoupling for driving world models was accepted at CVPR 2026! 
+My recent project on motion appearance decoupling for driving world models was accepted at CVPR 2026!
