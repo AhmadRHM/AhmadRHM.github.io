@@ -6,7 +6,7 @@
     "email": "ahmad.rahimi@epfl.ch",
     "phone": "+41 76 266 94 37",
     "url": "https://AhmadRHM.github.io/",
-    "summary": "I am a Ph.D. student in the VITA group at EPFL. My research interests include deep learning and computer vision for autonomous driving.",
+    "summary": "Researcher in video generation, driving world models, autonomous driving, diffusion-based generation, 4D scene reconstruction, and trajectory prediction. Published at CVPR 22, 25, and 26, and ICML 26. Interned at Wayve on world-modeling, VR-based driving-scene analysis, and 4D scene reconstruction.",
     "location": {
       "address": "Rue des Fontenailles 18",
       "postalCode": "1007",
@@ -20,11 +20,11 @@
       "name": "Deep Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Computer Vision",
         "World Modeling",
-        "Video Prediction",
+        "Video Generation",
         "Trajectory Prediction",
-        "Autonomous Driving"
+        "Autonomous Driving",
+        "Computer Vision"
       ]
     }
   ],
@@ -48,7 +48,24 @@
         "gpa": "18.88/20"
     }
   ],
+  "work": [
+    {
+      "company": "Wayve",
+      "position": "Research Intern",
+      "url": "https://www.wayve.ai/",
+      "startDate": "2025-11-24",
+      "endDate": "2026-05-09",
+      "summary": "Interned at Wayve, where I worked on world-modeling, VR-based driving-scene analysis, and 4D scene reconstruction. I developed a VR-based tool for analyzing driving scenes, which allows users to visualize and interact with driving data in a virtual environment. I also worked on 4D scene reconstruction using gaussian splatting, where I developed a method for reconstructing and iteratively refining 4D scenes from driving data."
+    }
+  ],
   "publications": [
+    {
+      "name": "MAD: Motion Appearance Decoupling for efficient Driving World Models",
+      "publisher": "CVPR 2026",
+      "releaseDate": "2025-12-01",
+      "url": "https://ahmadrhm.github.io/",
+      "summary": "We propose a two-step approach to driving world models that separates generation into motion forecasting and appearance synthesis. We fine-tune off-the-shelf video generation models into two components: a motion forecaster that predicts future object movements in an abstract skeleton representation, and an appearance synthesizer that converts this motion into realistic video. Our approach is effective and efficient, requiring only 140 GPU hours and driving videos for training, being two orders of magnitude less than prior work."
+    },
     {
       "name": "GEM: A Generalizable Ego-vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control",
       "publisher": "CVPR 2025",
@@ -209,6 +226,11 @@
       "name": "Seyed Mohsen Moosavi-Dezfooli",
       "icon": "fa-solid fa-thumbtack",
       "reference": "He was a supervisor for an internship I did at EPFL and we have published a paper together. He is an expert in adversarial machine learning and has published numerous papers in top-tier conferences."
+    },
+    {
+      "name": "Hugh Tomkins",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "He was my supervisor for my internship at Wayve were I worked on VR-related projects and 4D gaussian splatting for scene reconstruction and generation."
     }
   ]
 }
