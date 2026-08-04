@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Ahmad Rahimi",
-    "label": "Ph.D. Student",
+    "label": "Ph.D. Candidate",
     "image": "",
     "email": "ahmad.rahimi@epfl.ch",
     "phone": "+41 76 266 94 37",
     "url": "https://AhmadRHM.github.io/",
-    "summary": "Researcher in video generation, driving world models, autonomous driving, diffusion-based generation, 4D scene reconstruction, and trajectory prediction. Published at CVPR 22, 25, and 26, and ICML 26. Interned at Wayve on world-modeling, VR-based driving-scene analysis, and 4D scene reconstruction.",
+    "summary": "PhD candidate at EPFL advised by Prof. Alexandre Alahi, specializing in efficient video generation, driving world models, and 3D/4D scene reconstruction. I will complete my PhD in February 2027 and am interested in research scientist and research engineer opportunities beginning in March 2027.",
     "location": {
       "address": "Rue des Fontenailles 18",
       "postalCode": "1007",
@@ -44,12 +44,12 @@
   ],
   "work": [
     {
-      "company": "Wayve",
-      "position": "Research Intern",
+      "name": "Wayve",
+      "position": "Applied Science Intern",
       "url": "https://www.wayve.ai/",
       "startDate": "2025-11-24",
       "endDate": "2026-05-09",
-      "summary": "Interned at Wayve, where I worked on world-modeling, VR-based driving-scene analysis, and 4D scene reconstruction. I developed a VR-based tool for analyzing driving scenes, which allows users to visualize and interact with driving data in a virtual environment. I also worked on 4D scene reconstruction using gaussian splatting, where I developed a method for reconstructing and iteratively refining 4D scenes from driving data."
+      "summary": "Worked on world modeling, VR-based driving-scene analysis, and 4D scene reconstruction. I developed a VR tool for interactively analyzing driving scenes and methods for reconstructing and iteratively refining dynamic driving scenes using Gaussian splatting."
     }
   ],
   "publications": [
@@ -65,7 +65,14 @@
       "publisher": "CVPR 2025",
       "releaseDate": "2024-12-03",
       "url": "https://ahmadrhm.github.io/",
-      "summary": "We propose a generalizable ego-vision multimodal world model, GEM, that learns to predict future frames of egocentric driving videos, compromising various control signals. We build on pre-trained stable video diffusion model, adding a number of new features to incorporate controlability to the model and unleash long-term generation capabilities."
+      "summary": "We propose a generalizable ego-vision multimodal world model, GEM, that predicts future frames of egocentric driving videos using multiple control signals. We build on a pretrained Stable Video Diffusion model, adding new components for fine-grained controllability and long-term generation."
+    },
+    {
+      "name": "From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models",
+      "publisher": "ICML 2026",
+      "releaseDate": "2025-06-08",
+      "url": "https://pabloacuaviva.github.io/Gen2Gen",
+      "summary": "We introduce a few-shot fine-tuning framework that repurposes pretrained video diffusion models for novel visual and logic tasks using only a handful of examples. The updated version of this work, Rethinking Visual Intelligence: Insights from Video Pretraining, received an ARC Prize 2025 Honorable Mention."
     },
     {
       "name": "A Multi-Loss Strategy for Vehicle Trajectory Prediction: Combining Off-Road, Diversity, and Directional Consistency Losses",
@@ -91,11 +98,18 @@
   ],
   "awards": [
     {
+      "title": "ARC Prize 2025 Honorable Mention",
+      "date": "2025-12-05",
+      "awarder": "ARC Prize Foundation",
+      "url": "https://arcprize.org/competitions/2025#:~:text=%22Rethinking%20Visual%20Intelligence%3A%20Insights%20from%20Video%20Pretraining",
+      "summary": "Recognized for research on repurposing video diffusion models for novel visual and logic tasks."
+    },
+    {
       "title": "Bronze Medal in INOI",
       "date": "2017-09-01",
       "awarder": "Iranian National Olympiad in Informatics",
       "url": "https://inoi.ir/",
-      "summary": "Awarded the Bronze Medal in the Iranian National Olympiad in Informatics (INOI) for my performance in the competition which compromises algorithmic and combinatorial questions, in both theoretical and practical aspects."
+      "summary": "Awarded the Bronze Medal in the Iranian National Olympiad in Informatics (INOI), which evaluates theoretical and practical skills in algorithms and combinatorics."
     },
     {
       "title": "Ranked Second in !Optimizer Competition",
@@ -130,7 +144,7 @@
       "summary": "President of Iranian Student Association at EPFL, where I organized various cultural events and workshops for Iranian students at EPFL."
     },
     {
-      "organization": "Student Scentific Association",
+      "organization": "Student Scientific Association",
       "location": "Tehran, Iran",
       "position": "President",
       "url": "https://hamband.math.sharif.edu/wiki/",
@@ -208,7 +222,7 @@
     {
       "name": "Hugh Tomkins",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "He was my supervisor for my internship at Wayve were I worked on VR-related projects and 4D gaussian splatting for scene reconstruction and generation."
+      "reference": "He was my supervisor during my Applied Science internship at Wayve, where I worked on VR-related projects and 4D Gaussian splatting for scene reconstruction and generation."
     }
   ]
 }
