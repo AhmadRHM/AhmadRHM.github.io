@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two of my papers got accepted at CVPR 2025! Cheers 🍺!
+Two of my papers were accepted to CVPR 2025!

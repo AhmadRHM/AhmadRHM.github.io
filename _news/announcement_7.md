@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My internship at Wayve in London is coming to an end. It was a great experience and I learned a lot about the industry and the challenges of autonomous driving. I am grateful for the opportunity and the support of my colleagues. They are truly an exceptional team and I am proud to have been part of it. Thank you, Wayve!
+My Applied Science internship at Wayve in London has concluded. I am grateful to the team for an excellent experience working on the challenges of autonomous driving.

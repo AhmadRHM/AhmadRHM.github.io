@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined Wayve as a Research Scientist, working on GAIA-related projects. Very excited to be part of this amazing team and contribute to the future of autonomous driving!
+I joined Wayve as an Applied Science Intern, working on GAIA-related projects. I am excited to contribute to the future of autonomous driving with this team!
