@@ -30,16 +30,6 @@
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2022-09-15"
-    },
-    {
-      "institution": "Sharif University of Technology, Tehran, Iran",
-      "location": "Tehran, Iran",
-      "url": "https://www.sharif.edu/",
-      "area": "Computer Science",
-      "studyType": "BSc",
-      "startDate": "2018-09-01",
-      "endDate": "2022-06-01",
-      "gpa": "18.88/20"
     }
   ],
   "work": [
@@ -105,70 +95,44 @@
       "summary": "Recognized for research on repurposing video diffusion models for novel visual and logic tasks."
     },
     {
-      "title": "Bronze Medal in INOI",
+      "title": "Third Place in LLM Hackathon at EPFL",
+      "date": "2024-04",
+      "awarder": "EPFL",
+      "summary": "A two-day hackathon on improving LLM architectures like GPT-2 and Llama 2 held at EPFL."
+    },
+    {
+      "title": "Bronze Medal",
       "date": "2017-09-01",
-      "awarder": "Iranian National Olympiad in Informatics",
-      "url": "https://inoi.ir/",
-      "summary": "Awarded the Bronze Medal in the Iranian National Olympiad in Informatics (INOI), which evaluates theoretical and practical skills in algorithms and combinatorics."
+      "summary": "In the National Olympiad in Informatics."
     },
     {
-      "title": "Ranked Second in !Optimizer Competition",
+      "title": "Ranked Second in !Optimizer Contest",
       "date": "2021-09-01",
-      "awarder": "Sharif University of Technology",
-      "url": "https://www.sharif.edu/",
-      "summary": "Ranked second in the !Optimizer competition, a competition held by the computer science department at Sharif University of Technology, which evaluates students' knowledge in optimization."
-    },
-    {
-      "title": "Ranked 403 in Nation-wide university entrance exam",
-      "date": "2018-09-01",
-      "awarder": "Iranian National Evaluation Organization",
-      "url": "https://www.sanjesh.org/",
-      "summary": "Ranked 403 in the nation-wide university entrance exam, among more than 300,000 participants in Iran (placed in top 0.2% of the participants)."
-    },
-    {
-      "title": "Ranked Third in Developers Competition",
-      "date": "2019-12-07",
-      "awarder": "Sharif University of Technology",
-      "url": "https://www.sharif.edu/",
-      "summary": "Ranked third in the developers competition, a competition held by the computer engineering department at Sharif University of Technology, which evaluates students' knowledge in web development."
+      "summary": "A nation-wide scientific contest in optimization."
     }
   ],
   "volunteer": [
     {
-      "organization": "Iranian Student Association (IRSA)",
+      "organization": "Cultural Student Association, EPFL",
       "location": "Lausanne, Switzerland",
-      "position": "President",
-      "url": "https://www.epfl.ch/campus/associations/list/irsa/",
+      "position": "Head",
       "startDate": "2023-08-01",
       "endDate": "2024-08-01",
-      "summary": "President of Iranian Student Association at EPFL, where I organized various cultural events and workshops for Iranian students at EPFL."
+      "summary": "Led cultural and scientific events with 250+ participants."
     },
     {
       "organization": "Student Scientific Association",
-      "location": "Tehran, Iran",
-      "position": "President",
-      "url": "https://hamband.math.sharif.edu/wiki/",
+      "position": "Head",
       "startDate": "2019-06-01",
       "endDate": "2020-07-01",
-      "summary": "President of the Student Scientific Association in Department of Mathematical Sciences at Sharif University of Technology, where I organized various scientific events and workshops for students."
+      "summary": "Led student scientific activities in the Department of Mathematical Sciences."
     },
     {
-      "organization": "Sharif Math Summer School",
-      "location": "Tehran, Iran",
-      "position": "Lead Organizer",
-      "url": "https://hamband.math.sharif.edu/wiki/",
+      "organization": "Mathematical Sciences Summer School",
+      "position": "Co-organizer",
       "startDate": "2019-08-01",
       "endDate": "2019-08-04",
-      "summary": "Lead organizer of the Sharif Math Summer School, a summer school for high school students to familiarize them with various mathematical fields. I was also the lead of the cryptography workshop."
-    },
-    {
-      "organization": "Code Knock 3",
-      "location": "Tehran, Iran",
-      "position": "Organizer",
-      "url": "https://hamband.math.sharif.edu/wiki/",
-      "startDate": "2020-01-09",
-      "endDate": "2020-01-10",
-      "summary": "Organizer of Code Knock 3, a competitive programming competition in Java held at Sharif University of Technology."
+      "summary": "Organized a summer school for 80 high-school students covering mathematics and computer science topics."
     }
   ],
   "skills": [
@@ -192,11 +156,6 @@
     }
   ],
   "languages": [
-    {
-      "language": "Persian",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
     {
       "language": "English",
       "fluency": "Fluent",
